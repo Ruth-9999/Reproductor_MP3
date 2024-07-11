@@ -69,3 +69,5 @@ Para consultas, contacta a: rustymaps.alonso@gmail.com.
 ## Capturas de Pantalla
 
 Adjunto imágenes del proyecto en funcionamiento.
+
+![Reproductor en funcionamiento](./images/Reproductor_02.png)
