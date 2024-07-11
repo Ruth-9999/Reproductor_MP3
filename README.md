@@ -3,7 +3,7 @@
 ## Descripción del Proyecto
 
 - Esta aplicación reproduce audios MP3 y posee una lista de opciones para escuchar el Himno Nacional Argentino en versiones cantadas por artistas argentinos.
-- Actualmente el play produce error y detiene la reproducion del audio alos pocos segundos de su ejecucion.
+- Actualmente el play detiene la reproducion del audio a los pocos segundos de su ejecucion.
 
 ## Características
 
@@ -46,11 +46,12 @@
 
     - Seleccionar un archivo de audio desde la tabla.
     - Utilizar los botones de control:
-      _ Play: Reproduce el audio.
-      _ Pause: Pausa la reproducción.
-        _ Stop: Detiene y reinicia el audio.
-        _ Rewind: Retrocede en el audio.
-        _ Advance: Adelanta en el audio.
+      
+    - Play: Reproduce el audio.
+    - Pause: Pausa la reproducción.
+    - Stop: Detiene y reinicia el audio.
+    - Rewind: Retrocede en el audio.
+    - Advance: Adelanta en el audio.
 
 1. **Control de Progreso**
 
