@@ -66,8 +66,12 @@ Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo LICENSE para
 
 Para consultas, contacta a: rustymaps.alonso@gmail.com.
 
-## Capturas de Pantalla
+## Imágenes del Proyecto.
 
-Adjunto imágenes del proyecto en funcionamiento.
+Adjunto Capturas de Pantalla.
 
-![Reproductor en funcionamiento](./images/Reproductor_02.png)
+![Interfaz grafica diseñada con JAVA Swing](./imagen/Reproductor_01.png)
+
+![Reproductor en funcionamiento](./imagen/Reproductor_02.png)
+
+![Detalles de la base de datos](./imagen/Reproductor_03.png)
