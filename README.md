@@ -24,7 +24,7 @@ Esta aplicación reproduce audios MP3 y posee una lista de opciones para escucha
 
 ## Instrucciones 
 
-1. **Descargar y descomprimir los archivos de audios.**
+1. **Descargar y descomprimir ambas carpetas con los archivos de audios comprimidos.**
 
 2. **Configurar la base de datos:**
 
@@ -38,18 +38,18 @@ Esta aplicación reproduce audios MP3 y posee una lista de opciones para escucha
 
 4. **Configurar conexión a la base de datos:**
 
-    -Editar el archivo Conexion.java con las credenciales y la URL de tu base de datos MySQL.
+    -Editar el archivo Conexion.java con las credenciales y la URL de la base de datos MySQL.
    
 ## Uso del Proyecto
 1. **Reproducir Audio**
 
     - Seleccionar un archivo de audio desde la tabla.
     - Utilizar los botones de control:
-        Play: Reproduce el audio.
-        Pause: Pausa la reproducción.
-        Stop: Detiene y reinicia el audio.
-        Rewind: Retrocede en el audio.
-        Advance: Adelanta en el audio.
+        _ Play: Reproduce el audio.
+        _ Pause: Pausa la reproducción.
+        _ Stop: Detiene y reinicia el audio.
+        _ Rewind: Retrocede en el audio.
+        _ Advance: Adelanta en el audio.
 
 1. **Control de Progreso**
 
