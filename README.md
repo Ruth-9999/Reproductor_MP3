@@ -25,7 +25,7 @@
 
 ## Instrucciones 
 
-1. **Descargar y descomprimir ambas carpetas con los archivos de audios comprimidos.**
+1. **Descargar y descomprimir las dos carpetas con los archivos de audios.**
 
 2. **Configurar la base de datos:**
 
