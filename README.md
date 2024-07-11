@@ -2,7 +2,8 @@
 
 ## Descripción del Proyecto
 
-Esta aplicación reproduce audios MP3 y posee una lista de opciones para escuchar el Himno Nacional Argentino en versiones cantadas por artistas argentinos.
+- Esta aplicación reproduce audios MP3 y posee una lista de opciones para escuchar el Himno Nacional Argentino en versiones cantadas por artistas argentinos.
+- Actualmente el play produce error y detiene la reproducion del audio alos pocos segundos de su ejecucion.
 
 ## Características
 
@@ -34,19 +35,19 @@ Esta aplicación reproduce audios MP3 y posee una lista de opciones para escucha
 
 3. **Configurar las librerías adicionales necesarias:**
 
-    -Agregar JLayer y MySQL Connector/J al proyecto en NetBeans.
+    - Agregar JLayer y MySQL Connector/J al proyecto en NetBeans.
 
 4. **Configurar conexión a la base de datos:**
 
-    -Editar el archivo Conexion.java con las credenciales y la URL de la base de datos MySQL.
+    - Editar el archivo Conexion.java con las credenciales y la URL de la base de datos MySQL.
    
 ## Uso del Proyecto
 1. **Reproducir Audio**
 
     - Seleccionar un archivo de audio desde la tabla.
     - Utilizar los botones de control:
-        _ Play: Reproduce el audio.
-        _ Pause: Pausa la reproducción.
+      _ Play: Reproduce el audio.
+      _ Pause: Pausa la reproducción.
         _ Stop: Detiene y reinicia el audio.
         _ Rewind: Retrocede en el audio.
         _ Advance: Adelanta en el audio.
