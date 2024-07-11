@@ -44,8 +44,8 @@
 ## Uso del Proyecto
 1. **Reproducir Audio**
 
-    - Seleccionar un archivo de audio desde la tabla.
-    - Utilizar los botones de control:
+    - **Seleccionar un archivo de audio desde la tabla.**
+    - **Utilizar los botones de control:**
       
     - Play: Reproduce el audio.
     - Pause: Pausa la reproducción.
